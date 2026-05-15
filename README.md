@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizfaisal992" alt="azizfaisal992" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [job-portal system](https://jobportal-taupe-ten.vercel.app/)
+- 🔭 I’m currently working on [Event management](https://jatra-45j5.vercel.app/)
 
 - 🌱 I’m currently learning **DevOps tools and also the network insfrastructure also simple knowlegdege on AI**
 
