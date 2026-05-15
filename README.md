@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizfaisal992" alt="azizfaisal992" /></a> </p>
 
-- 🔭 I’m currently working on [Event management](https://jatra-45j5.vercel.app/)
+- 🔭 I’m currently working on [Finding Traveling event](https://jatra-45j5.vercel.app/)
 
 - 🌱 I’m currently learning **DevOps tools and also the network insfrastructure also simple knowlegdege on AI**
 
